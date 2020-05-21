@@ -7,3 +7,10 @@ The original data can be found on the [JoinZoe](https://covid.joinzoe.com/data) 
 These are the values for May 2020:
 
 ![Graph!](/May.png)
+
+They aren't updating the total count every day, but they are updating the map most days. Here are the maps for 17th and 21st May:
+
+| 17<sup>th</sup> May | 21<sup>st</sup> May |
+| --- | --- |
+| ![17-05-20!](/ZoeUKMap05-17.png) | ![17-05-20!](/ZoeUKMap05-21.png) |
+|![key!](/ZoeMapKey.png) | ![key!](/ZoeMapKey.png)|
