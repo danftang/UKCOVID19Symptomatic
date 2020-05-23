@@ -4,4 +4,4 @@ set timefmt "%d/%m/%y"
 set format x "%d/%m"
 set xlabel "Date"
 set ylabel "Estimated symptomatic cases"
-plot "data.csv" using 1:2 with lines notitle
+plot ["01/05/20":] "data.csv" using 1:2 with lines notitle

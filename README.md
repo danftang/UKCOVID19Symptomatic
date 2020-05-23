@@ -6,7 +6,11 @@ The original data can be found on the [JoinZoe](https://covid.joinzoe.com/data) 
 
 On 10th May the UK Government [changed their advice](https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-10-may-2020) from "stay at home" to "stay alert"; these are the case counts for May 2020:
 
-![Graph!](/May.png)
+![MayGraph!](/May.png)
+
+and, to put that in context, here are the counts since data was available:
+
+![Graph!](/data.png)
 
 They aren't updating the total count every day, but they are updating the map most days. Here are the maps for 17th and 21st May:
 
